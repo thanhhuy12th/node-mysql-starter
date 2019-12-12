@@ -1,0 +1,6 @@
+{
+  "slack_webhook": "webhook_url_value",
+  "github_webhook_secret": "secret_value",
+  "github_repo_owner": "repo_owner_value",
+  "github_repo_name": "repo_name_value"
+}
